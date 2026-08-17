@@ -19,7 +19,7 @@
 - 🎓 Computer Science student
 - 📱 Flutter developer focused on building clean, scalable mobile apps
 - 🧩 Comfortable with BLoC/Cubit state management and REST API integration
-- 🏥 Currently building a healthcare mobile app as my graduation project
+- 🏥  built a healthcare mobile app as my graduation project
 - 📫 Reach me on GitHub — feel free to check out my pinned repos
 
 <br clear="right"/>
