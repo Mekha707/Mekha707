@@ -61,31 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mekha707&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mekha707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Mekha707&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mekha707&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekha707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mekha707&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
 
 
 ---
