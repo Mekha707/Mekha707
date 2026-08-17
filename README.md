@@ -66,7 +66,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mekha707&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mekha707&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 </div>
 
 ---
